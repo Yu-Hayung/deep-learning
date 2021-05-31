@@ -15,3 +15,4 @@
 https://www.manning.com/books/deep-learning-with-r
 위링크속 도서를 보며 실행한 실습 또한 정리 하였습니다. 
 
+![image](https://user-images.githubusercontent.com/77039803/120152402-69890580-c228-11eb-9521-73202f19ca3c.png)
