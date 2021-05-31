@@ -9,3 +9,9 @@
 
 <img width="270" alt="스크린샷 2021-04-03 오후 10 18 28" src="https://user-images.githubusercontent.com/77039803/113479512-888a4600-94ca-11eb-9b18-0b21ed62489e.png">
 
+
+
+--- 
+https://www.manning.com/books/deep-learning-with-r
+위링크속 도서를 보며 실행한 실습 또한 정리 하였습니다. 
+
